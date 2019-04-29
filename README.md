@@ -1,2 +1,0 @@
-# eCommercePUC
-eCommerce - DropShipping
